@@ -1,2 +1,2 @@
 # hOS_C
-a personal OS project made using C
+a personal OS (console app) project made using C
